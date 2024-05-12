@@ -7,7 +7,6 @@
 .avatar{display:inline-block;overflow:hidden;line-height:1;vertical-align:middle;border-radius:6px;background:#121212 url(/static/img/appicon.svg)}
 .d-flex{display:flex}
 .flex-grow{flex-grow:1}
-.app-row .js-open-screenshot-viewer:hover:after{content:"Click to view screenshots";position:absolute;top:0;width:100%;text-align:center;border-radius:6px 6px 0 0;padding:5px;color:#fff;background:#0000007f;backdrop-filter:blur(5px)}
 .span12{width:940px}.span11{width:860px}.span10{width:780px}.span9{width:700px}.span8{width:620px}.span7{width:540px}.span6{width:460px}.span5{width:380px}.span4{width:300px}.span3{width:220px}.span2{width:140px}.span1{width:60px}
 .app-logo{width:100%;height:auto}
 .app-logo{display:block;background:#121212 url(/static/img/applogo.svg) center center no-repeat;border-radius:6px}
